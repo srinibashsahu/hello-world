@@ -1,3 +1,3 @@
-<h1> Hello, Welcome to Panda's world !!! </h1>
-<h2> I live in Kashmir </h2>
-<h3> Srinu loves Thavleena </h3>
+<h1> Hello, Welcome to java world !!! </h1>
+<h2> I live in India </h2>
+
